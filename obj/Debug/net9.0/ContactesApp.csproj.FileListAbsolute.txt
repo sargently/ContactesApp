@@ -1,0 +1,15 @@
+C:\Users\Gabriela\source\repos\ContactesApp\obj\Debug\net9.0\ContactesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriela\source\repos\ContactesApp\obj\Debug\net9.0\ContactesApp.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\ContactesApp\obj\Debug\net9.0\ContactesApp.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\ContactesApp\obj\Debug\net9.0\ContactesApp.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\ContactesApp\obj\Debug\net9.0\ContactesApp.sourcelink.json
+C:\Users\Gabriela\source\repos\ContactesApp\bin\Debug\net9.0\ContactesApp.exe
+C:\Users\Gabriela\source\repos\ContactesApp\bin\Debug\net9.0\ContactesApp.deps.json
+C:\Users\Gabriela\source\repos\ContactesApp\bin\Debug\net9.0\ContactesApp.runtimeconfig.json
+C:\Users\Gabriela\source\repos\ContactesApp\bin\Debug\net9.0\ContactesApp.dll
+C:\Users\Gabriela\source\repos\ContactesApp\bin\Debug\net9.0\ContactesApp.pdb
+C:\Users\Gabriela\source\repos\ContactesApp\obj\Debug\net9.0\ContactesApp.dll
+C:\Users\Gabriela\source\repos\ContactesApp\obj\Debug\net9.0\refint\ContactesApp.dll
+C:\Users\Gabriela\source\repos\ContactesApp\obj\Debug\net9.0\ContactesApp.pdb
+C:\Users\Gabriela\source\repos\ContactesApp\obj\Debug\net9.0\ContactesApp.genruntimeconfig.cache
+C:\Users\Gabriela\source\repos\ContactesApp\obj\Debug\net9.0\ref\ContactesApp.dll

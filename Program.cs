@@ -1,3 +1,5 @@
+﻿//Gabriela A. Ramirez, 2025-0993
+
 Console.WriteLine("Bienvenido a mi lista de Contactes");
 
 bool runing = true;
@@ -44,12 +46,12 @@ while (runing)
             break;
 
         default:
-            Console.WriteLine("Tu eres o te haces el idiota?");
+            Console.WriteLine("Ytsb");
             break;
     }
 }
 
-// ─── MÉTODOS ────────────────────────────────────────────────────────────────
+// MÉTODOS
 
 static void AddContact(List<int> ids, Dictionary<int, string> names, Dictionary<int, string> lastnames,
     Dictionary<int, string> addresses, Dictionary<int, string> telephones, Dictionary<int, string> emails,
@@ -230,3 +232,4 @@ static void DeleteContact(List<int> ids, Dictionary<int, string> names, Dictiona
         Console.WriteLine("Operación cancelada.");
     }
 }
+
